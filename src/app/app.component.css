@@ -1,0 +1,14 @@
+.container{
+    width: 90%;
+    margin: auto;
+    height:auto;
+    background-color: aqua;
+    text-align: center;
+    padding: 40px;
+
+}
+button {
+    float:right;
+    background-color: grey;
+    margin-right:330px;
+}
